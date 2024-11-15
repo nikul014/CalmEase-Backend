@@ -5,6 +5,9 @@ const dbConfig = {
     user: 'admin',
     password: 'Nikul25$',
     database: 'calmease',
+    connectTimeout: 100000,
+    ssl: { rejectUnauthorized: false }
+
 };
 
 module.exports = dbConfig;
