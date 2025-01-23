@@ -1,6 +1,3 @@
-# Node.js Project - User Authentication & Subscription
-
-
 # CalmEase Backend API
 
 The **CalmEase Backend** is a RESTful API developed in **Node.js** for the **CalmEase** mindfulness mobile application. It is designed to support the features of the **CalmEase** app, such as guided meditations, breathing exercises, live sessions, and user management. The backend also integrates with **Amazon RDS** for data storage.
